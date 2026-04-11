@@ -15,3 +15,5 @@ docker-compose ps
 
 # Просмотреть логи
 docker-compose logs -f
+
+Импортировать коллекцию postman из файла LinkStorageService API.postman_collection.json
