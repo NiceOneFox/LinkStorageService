@@ -6,7 +6,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/LinkStorageService.git
+git clone https://github.com/NiceOneFox/LinkStorageService.git
 cd LinkStorageService
 
 # Запустить все сервисы
