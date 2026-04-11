@@ -6,8 +6,6 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/NiceOneFox/LinkStorageService.git
-cd LinkStorageService
 
 # Запустить все сервисы
 docker-compose up -d
